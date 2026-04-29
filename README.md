@@ -18,13 +18,13 @@
 
 # |--------|---------------|------------------|
 
-# | Ghea   | 2430305030004 | Project Manager  |
+# | Ghea   | 2430305030010 | Project Manager  |
 
 # | Meylin | 2430305030004 | System Architect |
 
-# | Elga   | 2430305030004 | Core Developer   |
+# | Elga   | 2430305030014 | Core Developer   |
 
-# | Helen  | 2430305030004 | QA \& Dokumentasi |
+# | Helen  | 2430305030034 | QA \& Dokumentasi |
 
 # 
 
